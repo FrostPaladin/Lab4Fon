@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|g:\\base folder\\stuff\\progstuff\\projects\\lab 4\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|g:\\base folder\\stuff\\progstuff\\projects\\lab 4\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|g:\\base folder\\stuff\\progstuff\\projects\\lab 4\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|g:\\base folder\\stuff\\progstuff\\projects\\lab 4\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5A2A27-91D4-4AA7-B130-58D4F5AE3FF4}|Lab 4.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window3.xaml",
+              "RelativeDocumentMoniker": "Window3.xaml",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window3.xaml",
+              "RelativeToolTip": "Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T10:58:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "Window4.xaml.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window4.xaml.cs",
+              "RelativeToolTip": "Window4.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:57:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window4.xaml",
+              "RelativeDocumentMoniker": "Window4.xaml",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window4.xaml",
+              "RelativeToolTip": "Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T10:35:20.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Window3.xaml.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window3.xaml.cs",
+              "RelativeToolTip": "Window3.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:35:20.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:35:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\Lab 4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:35:20.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
